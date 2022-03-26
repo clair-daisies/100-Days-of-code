@@ -13,4 +13,4 @@ JS Concepts:
 - Functions
 - Data Types: Number and String
 - string concatination
-- getElementbyId / QuerySelector / console.log / addEventlistener
+- getElementbyId / QuerySelectot / console.log / addEventlistener
